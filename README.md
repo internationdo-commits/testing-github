@@ -1,3 +1,11 @@
+## Installation
+
+Clone this repository using Git:
+
+```bash
+git clone https://github.com/internationdo-commits/testing-github.git
+```
+
 # testing-github
 
 
